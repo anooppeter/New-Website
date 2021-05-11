@@ -54,6 +54,7 @@
     position: relative;
     width: 90%;
     height: 400px;
+    margin-top: 55px;
     top: 285px;
     left: 5%;
 }
@@ -181,7 +182,8 @@ MOVIL (XS revisamos en 320px)
     }
 
     .containerSkill{
-        top: 981px;
+        top: 965px;
+    }
     }
 
     .containerSkill .skills .name{
