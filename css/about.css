@@ -37,7 +37,7 @@
     position: relative;
     height: 280px;
     left: 30%;
-    top: 200px;
+    top: 183px;
 }
 
 .containerAbout .containerBiography h1{
@@ -54,7 +54,7 @@
     position: relative;
     width: 90%;
     height: 400px;
-    top: 250px;
+    top: 285px;
     left: 5%;
 }
 
@@ -163,8 +163,9 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .containerAbout .containerPhoto{
-        width: 290px;
-        top: 130px;
+        left:63px;
+        width: 297px;
+        top: 131px;
     }
     
     .containerAbout .containerBiography{
@@ -178,7 +179,7 @@ MOVIL (XS revisamos en 320px)
     }
 
     .containerSkill{
-        top: 991px;
+        top: 981px;
     }
 
     .containerSkill .skills .name{

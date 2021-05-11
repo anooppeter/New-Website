@@ -27,7 +27,7 @@ footer .networksFooter{
     width: 80%;
     height: 150px;
     left: 10%;
-    top: 167px;
+    top: 45px;
     z-index: 10;
 }
 
@@ -68,7 +68,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
 =============================================*/
 @media (max-width:1199px) and (min-width:992px){
     footer{
-        top: 3900px;
+        top: 4030px;
     }
 }
 /*=============================================
@@ -88,8 +88,8 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     footer{
-        top: 7658px;
-        margin-top: 130px;
+        top: 7689px;
+        margin-top: 0px
     }
 
     footer .networksFooter ul li{
