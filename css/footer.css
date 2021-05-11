@@ -4,13 +4,8 @@
 footer{
     position: absolute;
     width: 100%;
-<<<<<<< HEAD
     height: 320px;
     top: 4055px;
-=======
-    height: 213px;
-    top: 4159px;
->>>>>>> 33b86c1c0336d1fb4395cbf10c06ec17d267ab84
     background: url(../img/header.jpg);
     background-attachment: fixed;
     background-size: cover;
