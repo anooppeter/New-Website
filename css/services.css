@@ -11,7 +11,7 @@
 .containerServicesA h1{
     font-size: 50px;
     font-weight: 900;
-    padding-top: 269px;
+    padding-top: 106px;
     letter-spacing: 5px;
     text-transform: capitalize;
     text-align: center;
@@ -23,8 +23,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-wrap: nowrap;
-    width: 90%;
+    flex-wrap: wrap;
+    width: 91%;
     left: 5%;
     margin-top: 30px;
 }
@@ -120,7 +120,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 @media (max-width:991px) and (min-width:768px){
     .containerServicesA{
         width: 100%;
-        top: 2750px;
+        top: 2822px;
         left: 0;
     }
     
@@ -140,7 +140,7 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerServicesA{
         width: 100%;
-        top: 4508px;
+        top: 4571px;
         left: 0;
         
     }

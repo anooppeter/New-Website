@@ -12,7 +12,7 @@ function formValidation() {
 
      if (name == "" || name == null) {
         changeColor("name");
-        mistakeMessage("Must enter");
+        mistakeMessage("Need your name..!!");
         return false;
 
      }else{
@@ -27,7 +27,7 @@ function formValidation() {
 
      if (email == "" || email == null) {
         changeColor("email");
-        mistakeMessage("Must enter");
+        mistakeMessage("Enter your email..!!");
         return false;
 
      }else{
@@ -42,7 +42,7 @@ function formValidation() {
 
      if (affair == "" || affair == null) {
         changeColor("affair");
-        mistakeMessage("Must enter");
+        mistakeMessage("Phone Number please..!!");
         return false;
 
      }else{
@@ -57,7 +57,7 @@ function formValidation() {
 
      if (message == "" || message == null) {
         changeColor("message");
-        mistakeMessage("Must enter");
+        mistakeMessage("Tell me something");
         return false;
 
      }else{
