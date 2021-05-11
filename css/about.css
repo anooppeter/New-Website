@@ -163,9 +163,11 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .containerAbout .containerPhoto{
-        left:63px;
+        left: 9px;
         width: 297px;
         top: 131px;
+        margin-left: 24px;
+        padding-left: 0px;
     }
     
     .containerAbout .containerBiography{
