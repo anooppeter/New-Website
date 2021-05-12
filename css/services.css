@@ -4,7 +4,7 @@
 .containerServicesA{
     position: relative;
     width: 90%;
-    height: 258px;
+    height: 72px;
     top: 2625px;
 }
 
@@ -26,7 +26,7 @@
     flex-wrap: wrap;
     width: 91%;
     left: 5%;
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 .containerServices .card{
@@ -140,13 +140,14 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerServicesA{
         width: 100%;
-        top: 4990px;
+        top: 4882px;
         left: 0;
         
     }
     
     .containerServices{
         width: 90%;
+        top: 200px;
     }
     
 }

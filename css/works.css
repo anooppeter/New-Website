@@ -12,7 +12,7 @@
     width: 90%;
     padding: 0rem 0;
     margin-top: 0px;
-    top: 1704px;
+    top: 1710px;
     left: 5%;
 }
 
@@ -144,7 +144,7 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .project-area{
-        top: 2304px;
+        top: 2450px;
     }
     
     .project-area .button-group{
