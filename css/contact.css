@@ -49,7 +49,7 @@
 .containerContact .content .information .col{
     width: 100%;
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
     font-size: 16px;
     align-items: center;
     flex-wrap: nowrap;
@@ -142,7 +142,7 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerContact{
         padding: 0px 0px;
-        top: 6654px;
+        top: 6825px;
     }
     
     .containerContact .content .information,
@@ -152,7 +152,7 @@ MOVIL (XS revisamos en 320px)
     }
     
     .containerContact .content .information{
-        margin-bottom: 30px;
+        margin-bottom: 5px;
     }
 
 }
