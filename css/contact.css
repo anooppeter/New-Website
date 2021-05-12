@@ -125,7 +125,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
 =============================================*/
 @media (max-width:1199px) and (min-width:992px){
     .containerContact{
-        top: 3200px;
+        top: 3224px;
     }
 }
 /*=============================================
@@ -133,7 +133,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 =============================================*/
 @media (max-width:991px) and (min-width:768px){
     .containerContact{
-        top: 4000px;
+        top: 4273px;
     }
 }
 /*=============================================
@@ -142,7 +142,7 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerContact{
         padding: 0px 0px;
-        top: 6825px;
+        top: 7200px;
     }
     
     .containerContact .content .information,

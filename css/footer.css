@@ -78,7 +78,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 =============================================*/
 @media (max-width:991px) and (min-width:768px){
     footer{
-        top: 4750px;
+        top: 4840px;
     }mer
 
     footer .networksFooter p{
@@ -90,7 +90,7 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     footer{
-        top: 7689px;
+        top: 7959px;
         margin-top: 0px
     }
 
