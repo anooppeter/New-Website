@@ -5,7 +5,7 @@ footer{
     position: absolute;
     width: 100%;
  
-    height: 196px;
+    height: 141px;
     top: 4159px;
 
     background: url(../img/header.jpg);
@@ -27,8 +27,8 @@ footer::before{
 footer .networksFooter{
     position: relative;
     width: 80%;
-    height: 150px;
-    left: 10%;
+    height: 95px;
+    left: 21%;
     top: 45px;
     z-index: 10;
 }
@@ -90,7 +90,7 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     footer{
-        top: 7959px;
+        top: 7996px;
         margin-top: 0px
     }
 

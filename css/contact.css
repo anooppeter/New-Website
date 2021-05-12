@@ -16,8 +16,8 @@
     width: 90%;
     max-width: 1000px;
     padding: 0px;
-    margin: 20px auto;
-    top: 3200px;
+    margin: 0px auto;
+    top: 3330px;
 }
 
 .containerContact h1{
@@ -27,7 +27,7 @@
     text-transform: capitalize;
     text-align: center;
     color: #00BCE3;
-    padding-bottom: 60px;
+    padding-bottom: 0px;
 }
 
 .containerContact .content{
@@ -125,7 +125,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
 =============================================*/
 @media (max-width:1199px) and (min-width:992px){
     .containerContact{
-        top: 3224px;
+        top: 3305px;
     }
 }
 /*=============================================
@@ -142,7 +142,8 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerContact{
         padding: 0px 0px;
-        top: 7200px;
+        margin-top: 23px;
+        top: 7270px;
     }
     
     .containerContact .content .information,
