@@ -90,7 +90,7 @@ $(function(){
               
                         },  
                     })
-                // alert("Registration Successfull");
+                   alert("Registration Successfull");
 
                return true;
             } else {
