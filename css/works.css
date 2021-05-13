@@ -144,7 +144,11 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .project-area{
+<<<<<<< HEAD
         top: 2090px;
+=======
+        top: 2025px;
+>>>>>>> a5df907cc17a79a14122ba5502e2b5a4ddfe8958
     }
     
     .project-area .button-group{
