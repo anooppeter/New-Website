@@ -15,9 +15,9 @@
     position: relative;
     width: 90%;
     max-width: 1000px;
-    padding: 0px;
-    margin: 0px auto;
-    top: 3330px;
+    padding: 40px;
+    margin: 20px auto;
+    top: 3200px;
 }
 
 .containerContact h1{
@@ -27,7 +27,7 @@
     text-transform: capitalize;
     text-align: center;
     color: #00BCE3;
-    padding-bottom: 0px;
+    padding-bottom: 60px;
 }
 
 .containerContact .content{
@@ -49,7 +49,7 @@
 .containerContact .content .information .col{
     width: 100%;
     display: flex;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
     font-size: 16px;
     align-items: center;
     flex-wrap: nowrap;
@@ -112,7 +112,7 @@
 }
 
 .containerContact .content form button{
-    padding: 6px 30px;
+    padding: 12px 30px;
     border: transparent;
     background: #00BCE3;
     color: #fff;
@@ -125,7 +125,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
 =============================================*/
 @media (max-width:1199px) and (min-width:992px){
     .containerContact{
-        top: 3305px;
+        top: 3150px;
     }
 }
 /*=============================================
@@ -133,7 +133,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 =============================================*/
 @media (max-width:991px) and (min-width:768px){
     .containerContact{
-        top: 4273px;
+        top: 4134px;
     }
 }
 /*=============================================
@@ -141,9 +141,8 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .containerContact{
-        padding: 0px 0px;
-        margin-top: 23px;
-        top: 7270px;
+        padding: 40px 20px;
+        top: 6464px;
     }
     
     .containerContact .content .information,
@@ -153,7 +152,7 @@ MOVIL (XS revisamos en 320px)
     }
     
     .containerContact .content .information{
-        margin-bottom: 5px;
+        margin-bottom: 30px;
     }
 
 }

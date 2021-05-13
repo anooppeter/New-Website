@@ -4,14 +4,13 @@
 .containerServicesA{
     position: relative;
     width: 90%;
-    height: 72px;
-    top: 2625px;
+    height: auto;
+    top: 2550px;
 }
 
 .containerServicesA h1{
     font-size: 50px;
     font-weight: 900;
-    padding-top: 0px;
     letter-spacing: 5px;
     text-transform: capitalize;
     text-align: center;
@@ -24,7 +23,7 @@
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    width: 91%;
+    width: 90%;
     left: 5%;
     margin-top: 0px;
 }
@@ -100,7 +99,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
 @media (max-width:1199px) and (min-width:992px){
     .containerServicesA{
         width: 100%;
-        top: 2578px;
+        top: 2450px;
         left: 0;
     }
     
@@ -120,7 +119,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 @media (max-width:991px) and (min-width:768px){
     .containerServicesA{
         width: 100%;
-        top: 2961px;
+        top: 2853px;
         left: 0;
     }
     
@@ -140,14 +139,13 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerServicesA{
         width: 100%;
-        top: 5045px;
+        top: 4353px;
         left: 0;
         
     }
     
     .containerServices{
         width: 90%;
-        top: 70px;
     }
     
 }

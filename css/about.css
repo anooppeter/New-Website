@@ -4,7 +4,7 @@
 .containerAbout{
     position: absolute;
     width: 100%;
-    height: 532px;
+    height: 100vh;
     top: 100%;
 }
 
@@ -35,9 +35,9 @@
 
 .containerAbout .containerBiography{
     position: relative;
-    height: 366px;
+    height: 280px;
     left: 30%;
-    top: 183px;
+    top: 200px;
 }
 
 .containerAbout .containerBiography h1{
@@ -53,9 +53,9 @@
 .containerSkill{
     position: relative;
     width: 90%;
-    height: 500px;
+    height: 400px;
     margin-top: 0px;
-    top: 206px;
+    top: 290px;
     left: 5%;
 }
 
@@ -136,7 +136,7 @@ ESCRITORIO MEDIANO O TABLET HORIZONTAL (MD revisamos en 1024px)
         height: 220px;
     }
     .containerAbout .containerBiography{
-        top: 145px;
+        top: 160px;
         left: 30%;
     }
 }
@@ -151,7 +151,7 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 
     .containerAbout .containerBiography{
         top: 160px;
-        left: 39%;
+        left: 35%;
     }
 
     .containerAbout .containerBiography p{
@@ -164,11 +164,8 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .containerAbout .containerPhoto{
-        left: 9px;
-        width: 297px;
-        top: 131px;
-        margin-left: 24px;
-        padding-left: 0px;
+        width: 290px;
+        top: 130px;
     }
     
     .containerAbout .containerBiography{
@@ -182,7 +179,7 @@ MOVIL (XS revisamos en 320px)
     }
 
     .containerSkill{
-        top: 911px;
+        top: 989px;
     }
     }
 

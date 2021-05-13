@@ -10,9 +10,9 @@
 .project-area{
     position: absolute;
     width: 90%;
-    padding: 0rem 0;
-    margin-top: 0px;
-    top: 1700px;
+    padding: 4rem 0;
+    margin-top: 100px;
+    top: 1500px;
     left: 5%;
 }
 
@@ -144,7 +144,7 @@ MOVIL (XS revisamos en 320px)
 =============================================*/
 @media (max-width:767px){
     .project-area{
-        top: 2602px;
+        top: 1915px;
     }
     
     .project-area .button-group{
@@ -158,7 +158,6 @@ MOVIL (XS revisamos en 320px)
     }
     
     .project-area .button-group button{
-        margin: 2px 0;
-        margin-top: -12px;
+        margin: 10px 0;
     }
 }
