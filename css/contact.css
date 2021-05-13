@@ -133,7 +133,8 @@ ESCRITORIO PEQUEÑO O TABLET VERTICAL (SM revisamos en 768px)
 =============================================*/
 @media (max-width:991px) and (min-width:768px){
     .containerContact{
-        top: 4134px;
+        top: 4155px;
+
     }
 }
 /*=============================================
@@ -142,7 +143,7 @@ MOVIL (XS revisamos en 320px)
 @media (max-width:767px){
     .containerContact{
         padding: 40px 20px;
-        top: 6464px;
+        top: 6665px;
     }
     
     .containerContact .content .information,
